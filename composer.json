@@ -2,7 +2,7 @@
     "name": "blaater6/wkhtmltopdf-aarch64",
     "description": "Convert html to pdf using webkit (qtwebkit). Static linked linux binary for aarch64 systems.",
     "keywords": ["pdf", "thumbnail", "snapshot", "wkhtmltopdf", "convert", "binary"],
-    "license": "LGPL Version 3",
+    "license": "LGPL-3.0-only",
     "homepage": "https://wkhtmltopdf.org/",
     "authors": [
         {
